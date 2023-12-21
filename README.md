@@ -25,5 +25,5 @@ I am at the beginning of my career and my approach to work is based on continuou
 ## 📫 Contact
 
 - Email: kajetan.jankowski@onet.eu
-- LinkedIn: [LinkedIn Profile](linkedin.com/in/kajetan-jankowski)
+- LinkedIn: https://www.linkedin.com/in/kajetan-jankowski/
 
