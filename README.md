@@ -13,14 +13,14 @@ I am at the beginning of my career and my approach to work is based on continuou
 ## 🔧 Technologies and Tools
 
 - **Programming Languages:** Python, JavaScript, java , scala
-- **Frameworks:**  React.js, flask, express.Js, 
+- **Frameworks:**  React.js, flask, express.Js, vue.js
 - **Databases:** SQlite, MongoDB, neo4j 
 - **Other:** Git, Docker, kubernetes, working with linux , bash , python ML Libraries
 
 ## 🌱 Currently Learning
 
-- vue.js
-- spring-boot
+- Ruby
+- GraphQL
 
 ## 📫 Contact
 
